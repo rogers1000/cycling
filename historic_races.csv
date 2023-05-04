@@ -1,0 +1,548 @@
+,Season,Date,Date_Start,Date_End,fc_Race_ID,fc_Race_Name,Category,Gender,fc_Race_Location_Code,fc_Race_Winner_Rider_ID,Race_Winner_Name
+0,2023,06.01-08.01,2023/01/06,2023/01/08,677,Giro del Sol San Juan,2.2,Men,ARG,44684,Maximiliano Navarrete
+1,2023,11.01-15.01,2023/01/11,2023/01/15,456,NZ Cycle Classic,2.2,Men,NZL,10962,James Oram
+2,2023,15.01-22.01,2023/01/15,2023/01/22,454,Vuelta al Táchira,2.2,Men,VEN,7321,Jose Alarcon
+3,2023,15.01-17.01,2023/01/15,2023/01/17,9080,Tour Down Under,2.WWT,Women,AUS,91184,Grace Brown
+4,2023,17.01-22.01,2023/01/17,2023/01/22,1,Tour Down Under,2.UWT,Men,AUS,88703,Jay Vine
+5,2023,21.01,2023/01/21,2023/01/21,8467,Gravel and Tar,1.2,Men,NZL,108085,Ben Oliver
+6,2023,22.01,2023/01/22,2023/01/22,411,Clàssica Comunitat Valenciana 1969,1.1,Men,ESP,113439,Arnaud De Lie
+7,2023,22.01-29.01,2023/01/22,2023/01/29,5247,Vuelta a San Juan,2.Pro,Men,ARG,35077,Miguel Ángel López
+8,2023,23.01-29.01,2023/01/23,2023/01/29,117,Tropicale Amissa Bongo,2.1,Men,GAB,2326,Geoffrey Soupe
+9,2023,25.01,2023/01/25,2023/01/25,271,Trofeo Calvia,1.1,Men,ESP,114,Rui Costa
+10,2023,26.01,2023/01/26,2023/01/26,273,Trofeo Alcudia - Port d'Alcudia,1.1,Men,ESP,64658,Marijn van den Berg
+11,2023,27.01,2023/01/27,2023/01/27,274,Trofeo Andratx,1.1,Men,ESP,38818,Kobe Goossens
+12,2023,27.01-31.01,2023/01/27,2023/01/31,460,Tour of Sharjah,2.2,Men,UAE,33469,Adne van Engelen
+13,2023,28.01,2023/01/28,2023/01/28,100,Trofeo Serra de Tramuntana,1.1,Men,ESP,38818,Kobe Goossens
+14,2023,28.01,2023/01/28,2023/01/28,20014,Grand Prix Aspendos,1.2,Men,TUR,138893,Yegor Strelnikov
+15,2023,28.01,2023/01/28,2023/01/28,9133,Cadel Road Race,1.WWT,Women,AUS,94463,Loes Adegeest
+16,2023,29.01,2023/01/29,2023/01/29,83,Trofeo Palma,1.1,Men,ESP,76709,Ethan Vernon
+17,2023,29.01,2023/01/29,2023/01/29,97,GP la Marseillaise,1.1,Men,FRA,37494,Neilson Powless
+18,2023,29.01,2023/01/29,2023/01/29,17199,Women Cycling Pro Costa De Almería,1.1,Women,ESP,89471,Arianna Fidanza
+19,2023,29.01,2023/01/29,2023/01/29,1172,Cadel Road Race,1.UWT,Men,AUS,77148,Marius Mayrhofer
+20,2023,30.01-03.02,2023/01/30,2023/02/03,868,Saudi Tour,2.1,Men,KSA,16992,Ruben Guerreiro
+21,2023,30.01-03.02,2023/01/30,2023/02/03,868,Saudi Tour,2.1,Men,KSA,16992,Ruben Guerreiro
+22,2023,01.02-05.02,2023/02/01,2023/02/05,106,Étoile de Bessèges,2.1,Men,FRA,37494,Neilson Powless
+23,2023,01.02-05.02,2023/02/01,2023/02/05,11406,Tour du Sahel,2.2,Men,MAU,51609,Adil El Arbaoui
+24,2023,01.02-05.02,2023/02/01,2023/02/05,13738,Vuelta del Porvenir San Luis,2.2,Men,ARG,107577,Martin Vidaurre
+25,2023,01.02-05.02,2023/02/01,2023/02/05,319,Volta Comunitat Valenciana,2.Pro,Men,ESP,114,Rui Costa
+26,2023,04.02,2023/02/04,2023/02/04,20015,Grand Prix Apollon Temple,1.2,Men,TUR,37279,Sergei Rostovcev
+27,2023,04.02,2023/02/04,2023/02/04,11333,Aphrodite ITT,1.2,Women,CYP,89778,Antri Christoforou
+28,2023,05.02,2023/02/05,2023/02/05,10439,Vuelta CV Feminas,1.1,Women,ESP,89827,Floortje Mackaij
+29,2023,05.02,2023/02/05,2023/02/05,20008,Grand Prix Apollon Temple,1.2,Women,TUR,191624,Sevinch Yuldasheva
+30,2023,08.02,2023/02/08,2023/02/08,20007,Aphrodite - Women for future,1.2,Women,CYP,89778,Antri Christoforou
+31,2023,08.02,2023/02/08,2023/02/08,462,CC Africa TTT,CCTT,Men,UCI,62831,Hamza Mansouri
+32,2023,08.02,2023/02/08,2023/02/08,9338,CC Africa TTT,CCTT,Women,UCI,91403,Kimberley Le Court De Billot
+33,2023,09.02-12.02,2023/02/09,2023/02/12,18130,UAE Tour,2.WWT,Women,UAE,89745,Elisa Longo Borghini
+34,2023,09.02,2023/02/09,2023/02/09,369,CC Africa ITT,CCTT,Men,UCI,54962,Charles Kagimu
+35,2023,09.02,2023/02/09,2023/02/09,9337,CC Africa ITT,CCTT,Women,UCI,92488,Aurelie Halbwachs
+36,2023,09.02,2023/02/09,2023/02/09,20310,CC Africa ITT-U23,CCUT,Men,UCI,169736,Kiya Rogora
+37,2023,09.02,2023/02/09,2023/02/09,20309,CC Africa ITT-U23,CCUT,Women,UCI,169726,Nesrine Houili
+38,2023,10.02,2023/02/10,2023/02/10,18946,Muscat Classic,1.1,Men,OMA,16787,Jenthe Biermans
+39,2023,10.02,2023/02/10,2023/02/10,15151,CC Africa Mixed Relay,CCTT,Men,UCI,92488,Aurelie Halbwachs
+40,2023,10.02,2023/02/10,2023/02/10,15151,CC Africa Mixed Relay,CCTT,Women,UCI,92488,Aurelie Halbwachs
+41,2023,11.02,2023/02/11,2023/02/11,74,Vuelta a Murcia,1.1,Men,ESP,71217,Ben Turner
+42,2023,11.02,2023/02/11,2023/02/11,18935,Clasica de Almeria,1.1,Women,ESP,119929,Emilie Fortin
+43,2023,11.02,2023/02/11,2023/02/11,10441,Aphrodite's Sanctuary,1.2,Women,CYP,90686,Jesse Vandenbulcke
+44,2023,11.02-15.02,2023/02/11,2023/02/15,57,Tour of Oman,2.Pro,Men,OMA,68206,Matteo Jorgenson
+45,2023,12.02,2023/02/12,2023/02/12,18947,Figueira Champions Classic,1.1,Men,POR,37219,Casper Pedersen
+46,2023,12.02,2023/02/12,2023/02/12,129,Clasica de Almeria,1.Pro,Men,ESP,37719,Matteo Moschetti
+47,2023,12.02,2023/02/12,2023/02/12,9336,CC Africa RR,CCRR,Women,UCI,95942,Ese Lovina Ukpeseraye
+48,2023,13.02,2023/02/13,2023/02/13,16519,Jaén Paraiso Interior,1.1,Men,ESP,45992,Tadej Pogacar
+49,2023,13.02,2023/02/13,2023/02/13,370,CC Africa RR,CCRR,Men,UCI,71607,Henok Mulubrhan
+50,2023,15.02-19.02,2023/02/15,2023/02/19,110,Vuelta a Andalucía,2.Pro,Men,ESP,45992,Tadej Pogacar
+51,2023,15.02-19.02,2023/02/15,2023/02/19,107,Volta ao Algarve,2.Pro,Men,POR,27124,Daniel Martinez
+52,2023,16.02-19.02,2023/02/16,2023/02/19,9189,Setmana Ciclista Valenciana,2.Pro,Women,ESP,164720,Justine Ghekiere
+53,2023,17.02-19.02,2023/02/17,2023/02/19,111,Tour Alpes Maritimes du Var,2.1,Men,FRA,99667,Kévin Vauquelin
+54,2023,19.02-26.02,2023/02/19,2023/02/26,450,Tour of Rwanda,2.1,Men,RWA,71607,Henok Mulubrhan
+55,2023,20.02-26.02,2023/02/20,2023/02/26,9800,UAE Tour,2.UWT,Men,UAE,84019,Remco Evenepoel
+56,2023,23.02-26.02,2023/02/23,2023/02/26,16526,Gran Camiño,2.1,Men,ESP,38195,Jonas Vingegaard
+57,2023,25.02,2023/02/25,2023/02/25,121,Faun-Ardèche Classic,1.Pro,Men,FRA,12474,Julian Alaphilippe
+58,2023,25.02,2023/02/25,2023/02/25,53,Omloop Het Nieuwsblad,1.UWT,Men,BEL,7724,Dylan van Baarle
+59,2023,25.02,2023/02/25,2023/02/25,9181,Omloop Het Nieuwsblad,1.WWT,Women,BEL,89883,Lotte Kopecky
+60,2023,26.02,2023/02/26,2023/02/26,9201,Omloop van het Hageland,1.1,Women,BEL,90120,Lorena Wiebes
+61,2023,26.02,2023/02/26,2023/02/26,432,La Drome Classic,1.Pro,Men,FRA,16566,Anthony Perez
+62,2023,26.02,2023/02/26,2023/02/26,84,Kuurne-Brussel-Kuurne,1.Pro,Men,BEL,16786,Tiesj Benoot
+63,2023,28.02,2023/02/28,2023/02/28,116,Le Samyn,1.1,Men,BEL,37996,Milan Menten
+64,2023,28.02,2023/02/28,2023/02/28,9206,Le Samyn des Dames,1.1,Women,BEL,89443,Marta Bastianelli
+65,2023,01.03,2023/03/01,2023/03/01,277,Umag Trophy,1.2,Men,CRO,37606,Adam Toupalik
+66,2023,01.03,2023/03/01,2023/03/01,18936,Umag Trophy Ladies,1.2,Women,CRO,90890,Alessia Vigilia
+67,2023,01.03,2023/03/01,2023/03/01,112,Trofeo Laigueglia,1.Pro,Men,ITA,20448,Nans Peters
+68,2023,04.03,2023/03/04,2023/03/04,539,GP Criquielion,1.1,Men,BEL,44003,Sam Welsford
+69,2023,04.03,2023/03/04,2023/03/04,20017,Alanya Cup,1.2,Men,TUR,23146,Willie Smit
+70,2023,04.03,2023/03/04,2023/03/04,18953,Le Tour des 100 Communes,1.2,Men,FRA,152944,Jonathan Vervenne
+71,2023,04.03,2023/03/04,2023/03/04,283,Ster van Zwolle,1.2,Men,NED,862,Coen Vermeltfoort
+72,2023,04.03,2023/03/04,2023/03/04,54,Strade Bianche,1.UWT,Men,ITA,65025,Tom Pidcock
+73,2023,04.03,2023/03/04,2023/03/04,9044,Strade Bianche,1.WWT,Women,ITA,93562,Demi Vollering
+74,2023,04.03-05.03,2023/03/04,2023/03/05,16525,South Aegean Tour,2.2,Men,GRE,48535,Jakub Otruba
+75,2023,05.03,2023/03/05,2023/03/05,2729,GP Jean-Pierre Monseré,1.1,Men,BEL,47124,Gerben Thijssen
+76,2023,05.03,2023/03/05,2023/03/05,17126,Trofeo Oro in Euro,1.1,Women,ITA,96878,Gaia Realini
+77,2023,05.03,2023/03/05,2023/03/05,284,GP Lillers,1.2,Men,FRA,45419,Andreas Stokbro
+78,2023,05.03,2023/03/05,2023/03/05,278,Porec Trophy,1.2,Men,CRO,16811,Patryk Stosz
+79,2023,05.03,2023/03/05,2023/03/05,18937,Porec Trophy Ladies,1.2,Women,CRO,115242,Yanina Kuskova
+80,2023,05.03-12.03,2023/03/05,2023/03/12,2,Paris-Nice,2.UWT,Men,FRA,45992,Tadej Pogacar
+81,2023,06.03-12.03,2023/03/06,2023/03/12,3,Tirreno-Adriatico,2.UWT,Men,ITA,18655,Primoz Roglic
+82,2023,07.03-16.03,2023/03/07,2023/03/16,465,Tour d'Algérie,2.2,Men,ALG,120492,Paul Hennequin
+83,2023,07.03-11.03,2023/03/07,2023/03/11,17279,Trofeo Ponente in Rosa,2.2,Women,ITA,57575,Jolanda Neff
+84,2023,09.03-12.03,2023/03/09,2023/03/12,276,Istrian Spring Trophy,2.2,Men,CRO,139677,Tijmen Graat
+85,2023,10.03-12.03,2023/03/10,2023/03/12,19315,Vuelta Extremadura Féminas,2.2,Women,ESP,157459,Megan Armitage
+86,2023,11.03,2023/03/11,2023/03/11,7005,Rhodes Grand Prix,1.2,Men,GRE,65475,Eirik Lunder
+87,2023,11.03,2023/03/11,2023/03/11,9045,Ronde van Drenthe,1.WWT,Women,NED,90120,Lorena Wiebes
+88,2023,12.03,2023/03/12,2023/03/12,131,Ronde van Drenthe,1.1,Men,NED,127939,Per Strand Hagenes
+89,2023,12.03,2023/03/12,2023/03/12,510,Dorpenomloop Rucphen,1.2,Men,NED,71213,Laurenz Rex
+90,2023,12.03-16.03,2023/03/12,2023/03/16,132,Tour de Taiwan,2.1,Men,TPE,20841,Jeroen Meijers
+91,2023,15.03,2023/03/15,2023/03/15,89,Milano - Torino,1.Pro,Men,ITA,27151,Arvid de Kleijn
+92,2023,15.03,2023/03/15,2023/03/15,122,Nokere Koerse,1.Pro,Men,BEL,8377,Tim Merlier
+93,2023,15.03,2023/03/15,2023/03/15,10430,Nokere Koerse,1.Pro,Women,BEL,89883,Lotte Kopecky
+94,2023,16.03,2023/03/16,2023/03/16,146,GP de Denain,1.Pro,Men,FRA,34624,Sebastian Molano
+95,2023,16.03-19.03,2023/03/16,2023/03/19,844,Tour of Rhodes,2.2,Men,GRE,172842,António Morgado
+96,2023,17.03,2023/03/17,2023/03/17,8772,GP de la Ville d'Alger,1.2,Men,ALG,6584,Youcef Reguigui
+97,2023,17.03,2023/03/17,2023/03/17,10673,Youngster Coast Challenge,1.2U,Men,BEL,94823,Warre Vangheluwe
+98,2023,17.03,2023/03/17,2023/03/17,123,Bredene Koksijde Classic,1.Pro,Men,BEL,47124,Gerben Thijssen
+99,2023,17.03-19.03,2023/03/17,2023/03/19,18932,Tour de Normandie Féminin,2.1,Women,FRA,96832,Cédrine Kerbaol
+100,2023,18.03,2023/03/18,2023/03/18,124,Classic Loire Atlantique,1.1,Men,FRA,72919,Axel Zingle
+101,2023,18.03,2023/03/18,2023/03/18,4,Milano-Sanremo,1.UWT,Men,ITA,16672,Mathieu van der Poel
+102,2023,19.03,2023/03/19,2023/03/19,125,Cholet - Pays de la Loire,1.1,Men,FRA,96312,Laurence Pithie
+103,2023,19.03,2023/03/19,2023/03/19,15066,Per Sempre Alfredo,1.1,Men,ITA,77500,Felix Engelhardt
+104,2023,19.03,2023/03/19,2023/03/19,7004,Classica da Arrabida,1.2,Men,POR,37221,Orluis Aular
+105,2023,19.03,2023/03/19,2023/03/19,508,GP Slovenian Istria,1.2,Men,SLO,66702,Bartlomiej Proc
+106,2023,19.03,2023/03/19,2023/03/19,1194,Popolarissima,1.2,Men,ITA,41143,Davide Persico
+107,2023,19.03,2023/03/19,2023/03/19,9046,Trofeo Alfredo Binda,1.WWT,Women,ITA,114476,Shirin van Anrooij
+108,2023,20.03-26.03,2023/03/20,2023/03/26,14,Volta Catalunya,2.UWT,Men,ESP,18655,Primoz Roglic
+109,2023,21.03-25.03,2023/03/21,2023/03/25,114,Coppi e Bartali,2.1,Men,ITA,69502,Mauro Schmid
+110,2023,22.03,2023/03/22,2023/03/22,40,Classic Brugge-De Panne,1.UWT,Men,BEL,45363,Jasper Philipsen
+111,2023,22.03-26.03,2023/03/22,2023/03/26,340,Olympia's Tour,2.2,Men,NED,47878,Mathias Bregnhøj
+112,2023,22.03-26.03,2023/03/22,2023/03/26,288,Volta ao Alentejo,2.2,Men,POR,37221,Orluis Aular
+113,2023,23.03,2023/03/23,2023/03/23,16527,GP Vipava Valley,1.2,Men,SLO,37606,Adam Toupalik
+114,2023,23.03,2023/03/23,2023/03/23,9047,Classic Brugge-De Panne,1.WWT,Women,BEL,96817,Pfeiffer Georgi
+115,2023,24.03,2023/03/24,2023/03/24,47,E3 Saxo Classic,1.UWT,Men,BEL,18258,Wout van Aert
+116,2023,26.03,2023/03/26,2023/03/26,260,La Roue Tourangelle,1.1,Men,FRA,42868,Rory Townsend
+117,2023,26.03,2023/03/26,2023/03/26,937,GP Adria Mobil,1.2,Men,SLO,37268,Tilen Finkst
+118,2023,26.03,2023/03/26,2023/03/26,20016,Syedra Ancient City,1.2,Men,TUR,6579,Polychronis Tzortzakis
+119,2023,26.03,2023/03/26,2023/03/26,3999,Gent - Wevelgem,1.2U,Men,BEL,123589,Gil Gelders
+120,2023,26.03,2023/03/26,2023/03/26,263,GP Industria &amp; Artigianato,1.Pro,Men,ITA,76245,Ben Healy
+121,2023,26.03,2023/03/26,2023/03/26,7,Gent - Wevelgem,1.UWT,Men,BEL,14737,Christophe Laporte
+122,2023,26.03,2023/03/26,2023/03/26,9048,Gent - Wevelgem,1.WWT,Women,BEL,92485,Marlen Reusser
+123,2023,29.03,2023/03/29,2023/03/29,9309,Dwars door Vlaanderen,1.Pro,Women,BEL,93562,Demi Vollering
+124,2023,29.03,2023/03/29,2023/03/29,75,Dwars door Vlaanderen,1.UWT,Men,BEL,14737,Christophe Laporte
+125,2023,29.03-02.04,2023/03/29,2023/04/02,17278,Vuelta Bantrab,2.2,Men,GUA,277,Oscar Sevilla
+126,2023,29.03-02.04,2023/03/29,2023/04/02,17278,Vuelta Bantrab,2.2,Men,GUA,277,Oscar Sevilla
+127,2023,30.03,2023/03/30,2023/03/30,358,CC Oceania ITT,CCTT,Men,UCI,59418,Tom Sexton
+128,2023,30.03,2023/03/30,2023/03/30,9349,CC Oceania ITT,CCTT,Women,UCI,150427,Georgia Perry
+129,2023,30.03,2023/03/30,2023/03/30,360,CC Oceania ITT-U23,CCUT,Men,UCI,167283,Brady Gilmore
+130,2023,30.03,2023/03/30,2023/03/30,9350,CC Oceania ITT-U23,CCUT,Women,UCI,167242,Isabelle Carnes
+131,2023,31.03,2023/03/31,2023/03/31,134,Route Adélie de Vitré,1.1,Men,FRA,66347,Fredrik Dversnes
+132,2023,01.04,2023/04/01,2023/04/01,126,Volta Limburg Classic,1.1,Men,NED,61988,Kaden Groves
+133,2023,01.04,2023/04/01,2023/04/01,48,GP Miguel Indurain,1.Pro,Men,ESP,2977,Ion Izagirre
+134,2023,01.04-06.04,2023/04/01,2023/04/06,507,Tour of Thailand,2.1,Men,THA,44411,Tegshbayar Batsaikhan
+135,2023,01.04,2023/04/01,2023/04/01,357,CC Oceania RR,CCRR,Men,UCI,90919,Liam Walsh
+136,2023,01.04,2023/04/01,2023/04/01,9348,CC Oceania RR,CCRR,Women,UCI,96038,Sophie Edwards
+137,2023,02.04,2023/04/02,2023/04/02,297,Trofeo PIVA,1.2U,Men,ITA,119792,Giacomo Villa
+138,2023,02.04,2023/04/02,2023/04/02,5,Ronde van Vlaanderen,1.UWT,Men,BEL,45992,Tadej Pogacar
+139,2023,02.04,2023/04/02,2023/04/02,9049,Ronde van Vlaanderen,1.WWT,Women,BEL,89883,Lotte Kopecky
+140,2023,03.04-08.04,2023/04/03,2023/04/08,6,Itzulia Basque Country,2.UWT,Men,ESP,38195,Jonas Vingegaard
+141,2023,04.04-07.04,2023/04/04,2023/04/07,217,Pays de la Loire Tour,2.1,Men,FRA,7572,Alexander Kamp
+142,2023,05.04,2023/04/05,2023/04/05,14856,Scheldeprijs Vrouwen Elite,1.1,Women,BEL,90120,Lorena Wiebes
+143,2023,05.04,2023/04/05,2023/04/05,56,Scheldeprijs,1.Pro,Men,BEL,45363,Jasper Philipsen
+144,2023,06.04-09.04,2023/04/06,2023/04/09,293,Circuit des Ardennes,2.2,Men,FRA,47878,Mathias Bregnhøj
+145,2023,08.04,2023/04/08,2023/04/08,13853,Paris-Roubaix Femmes,1.WWT,Women,FRA,89488,Alison Jackson
+146,2023,08.04-10.04,2023/04/08,2023/04/10,9545,Tour of Thailand,2.1,Women,THA,121337,Eun Hee Lee
+147,2023,09.04,2023/04/09,2023/04/09,8,Paris-Roubaix,1.UWT,Men,FRA,16672,Mathieu van der Poel
+148,2023,10.04,2023/04/10,2023/04/10,13593,Ronde de Mouscron,1.1,Women,BEL,90989,Martina Fidanza
+149,2023,10.04,2023/04/10,2023/04/10,295,Giro del Belvedere,1.2U,Men,ITA,116832,Johannes Staune-Mittet
+150,2023,11.04,2023/04/11,2023/04/11,145,Paris - Camembert,1.1,Men,FRA,51269,Valentin Ferron
+151,2023,11.04,2023/04/11,2023/04/11,296,GP Palio del Recioto,1.2U,Men,ITA,139677,Tijmen Graat
+152,2023,11.04-14.04,2023/04/11,2023/04/14,11248,Giro di Sicilia,2.1,Men,ITA,6230,Alexey Lutsenko
+153,2023,12.04,2023/04/12,2023/04/12,77,Brabantse Pijl,1.Pro,Men,BEL,37717,Dorian Godon
+154,2023,12.04,2023/04/12,2023/04/12,9400,Brabantse Pijl,1.Pro,Women,BEL,89719,Silvia Persico
+155,2023,12.04-16.04,2023/04/12,2023/04/16,294,Tour du Loir-et-Cher,2.2,Men,FRA,75483,Tim Marsman
+156,2023,14.04,2023/04/14,2023/04/14,15075,Classic Grand Besançon Doubs,1.1,Men,FRA,38937,Victor Lafay
+157,2023,14.04,2023/04/14,2023/04/14,1029,Central American Championship ITT,1.2,Men,UCI,27448,Cristofer Jurado
+158,2023,14.04,2023/04/14,2023/04/14,11501,Central American Championship ITT,1.2,Women,UCI,140652,Wendy Ducreux
+159,2023,14.04,2023/04/14,2023/04/14,14584,Central American Championship ITT-U23,1.2U,Men,UCI,160775,Donovan Ramirez
+160,2023,15.04,2023/04/15,2023/04/15,1285,Tour du Jura,1.1,Men,FRA,99667,Kévin Vauquelin
+161,2023,15.04,2023/04/15,2023/04/15,428,Arno Wallaard Mem.,1.2,Men,NED,38704,Rasmus Bøgh Wallin
+162,2023,15.04,2023/04/15,2023/04/15,14585,Central American Championship RR-U23,1.2U,Men,UCI,103082,Bredio Ruiz
+163,2023,15.04,2023/04/15,2023/04/15,42,LBL Espoirs,1.2U,Men,BEL,119784,Francesco Busatto
+164,2023,16.04,2023/04/16,2023/04/16,162,Tour du Doubs,1.1,Men,FRA,2325,Jesus Herrada
+165,2023,16.04,2023/04/16,2023/04/16,108,Giro Reggio Calabria,1.1,Men,ITA,10916,Jhonatan Restrepo
+166,2023,16.04,2023/04/16,2023/04/16,14581,GP Féminin de Chambéry,1.1,Women,FRA,89925,Victorie Guilman
+167,2023,16.04,2023/04/16,2023/04/16,1028,Central American Championship RR,1.2,Men,UCI,27448,Cristofer Jurado
+168,2023,16.04,2023/04/16,2023/04/16,11508,Central American Championship RR,1.2,Women,UCI,183775,Maria Sanchez
+169,2023,16.04,2023/04/16,2023/04/16,318,Tr. S. Vendemiano,1.2U,Men,ITA,97872,Anders Foldager
+170,2023,16.04,2023/04/16,2023/04/16,9,Amstel Gold Race,1.UWT,Men,NED,45992,Tadej Pogacar
+171,2023,16.04,2023/04/16,2023/04/16,9050,Amstel Gold Race,1.WWT,Women,NED,93562,Demi Vollering
+172,2023,17.04-21.04,2023/04/17,2023/04/21,62,Tour of the Alps,2.Pro,Men,ITA,16639,Tao Geoghegan Hart
+173,2023,18.04,2023/04/18,2023/04/18,9615,CC Pan-America ITT,CCTT,Women,UCI,89853,Amber Neben
+174,2023,19.04,2023/04/19,2023/04/19,10,La Flèche Wallonne,1.UWT,Men,BEL,45992,Tadej Pogacar
+175,2023,19.04,2023/04/19,2023/04/19,9051,La Flèche Wallonne,1.WWT,Women,BEL,93562,Demi Vollering
+176,2023,19.04-22.04,2023/04/19,2023/04/22,9018,Belgrade Banjaluka,2.2,Men,BIH,37387,Gregor Matija Cerne
+177,2023,19.04,2023/04/19,2023/04/19,367,CC Pan-America ITT,CCTT,Men,UCI,34760,Walter Vargas
+178,2023,19.04,2023/04/19,2023/04/19,368,CC Pan-America ITT-U23,CCUT,Men,UCI,116513,Hector Quintana
+179,2023,22.04,2023/04/22,2023/04/22,9441,Omloop van Borsele,1.1,Women,NED,150247,Linda Zanetti
+180,2023,22.04,2023/04/22,2023/04/22,9740,CC Pan-America RR,CCRR,Women,UCI,90100,Skylar Schneider
+181,2023,22.04,2023/04/22,2023/04/22,366,CC Pan-America RR-U23,CCU,Men,UCI,185119,Vicente Rojas Naranjo
+182,2023,23.04,2023/04/23,2023/04/23,521,Rutland - Melton Classic,1.2,Men,GBR,93695,Luke Lamperti
+183,2023,23.04,2023/04/23,2023/04/23,11,Liege-Bastogne-Liege,1.UWT,Men,BEL,84019,Remco Evenepoel
+184,2023,23.04,2023/04/23,2023/04/23,9052,Liege-Bastogne-Liege Femmes,1.WWT,Women,BEL,93562,Demi Vollering
+185,2023,23.04,2023/04/23,2023/04/23,365,CC Pan-America RR,CCRR,Men,UCI,37419,Pier-André Côté
+186,2023,25.04,2023/04/25,2023/04/25,9458,GP della Liberazione PINK,1.2,Women,ITA,96819,Silvia Zanardi
+187,2023,25.04,2023/04/25,2023/04/25,312,GP Liberazione,1.2U,Men,ITA,153310,Alessandro Romele
+188,2023,25.04-01.05,2023/04/25,2023/05/01,82,Tour de Bretagne,2.2,Men,FRA,9008,Simon Pellaud
+189,2023,25.04-01.05,2023/04/25,2023/05/01,82,Tour de Bretagne,2.2,Men,FRA,9008,Simon Pellaud
+190,2023,25.04-30.04,2023/04/25,2023/04/30,12,Tour de Romandie,2.UWT,Men,SUI,20147,Adam Yates
+191,2023,26.04-30.04,2023/04/26,2023/04/30,239,Tour of the Gila,2.2,Men,USA,54241,Alex Hoehn
+192,2023,26.04-30.04,2023/04/26,2023/04/30,9548,Tour of the Gila,2.2,Women,USA,181924,Austin Killips
+193,2023,27.04-30.04,2023/04/27,2023/04/30,9549,Gracia Orlová,2.2,Women,CZE,142757,Jenny Rissveds
+194,2023,28.04-30.04,2023/04/28,2023/04/30,153,Vuelta a Asturias,2.1,Men,ESP,27271,Lorenzo Fortunato
+195,2023,29.04,2023/04/29,2023/04/29,17932,reVolta,1.1,Women,ESP,134451,Claire Steels
+196,2023,29.04,2023/04/29,2023/04/29,16506,Leiedal Koerse,1.2,Women,BEL,167145,Julia Kopecky
+197,2023,29.04-03.05,2023/04/29,2023/05/03,314,Carpathian Race,2.2U,Men,POL,114583,Gal Glivar
+198,2023,29.04-03.05,2023/04/29,2023/05/03,314,Carpathian Race,2.2U,Men,POL,114583,Gal Glivar
+199,2023,29.04-30.04,2023/04/29,2023/04/30,9460,Festival Elsy Jacobs,2.Pro,Women,LUX,136057,Ally Wollaston
+200,2023,30.04,2023/04/30,2023/04/30,1047,GP Vorarlberg,1.2,Men,AUT,22341,Michael Boros
+201,2023,01.05,2023/05/01,2023/05/01,535,Circuito del Porto,1.2,Men,ITA,103403,Mattia Pinazzi
+202,2023,01.05,2023/05/01,2023/05/01,252,Eschborn-Frankfurt,1.2U,Men,GER,100034,Joshua Gudnitz
+203,2023,01.05,2023/05/01,2023/05/01,35,Eschborn-Frankfurt,1.UWT,Men,GER,16610,Søren Kragh Andersen
+204,2023,01.05-07.05,2023/05/01,2023/05/07,9058,La Vuelta Femenina,2.WWT,Women,ESP,0,Future Race
+205,2023,02.05-06.05,2023/05/02,2023/05/06,513,Tour of Hellas,2.1,Men,GRE,0,Future Race
+206,2023,02.05-06.05,2023/05/02,2023/05/06,6156,Tour du Bénin,2.2,Men,BEN,0,Future Race
+207,2023,04.05-07.05,2023/05/04,2023/05/07,3672,Vuelta a Catamarca,2.2,Men,ARG,0,Future Race
+208,2023,05.05,2023/05/05,2023/05/05,9731,La Classique Morbihan,1.1,Women,FRA,0,Future Race
+209,2023,06.05,2023/05/06,2023/05/06,9732,GP de Plumelec-Morbihan,1.1,Women,FRA,0,Future Race
+210,2023,06.05,2023/05/06,2023/05/06,14582,GP Eco-Struct,1.1,Women,BEL,0,Future Race
+211,2023,06.05,2023/05/06,2023/05/06,577,Ronde van Overijssel,1.2,Men,NED,0,Future Race
+212,2023,06.05,2023/05/06,2023/05/06,73,Sundvolden GP,1.2,Men,NOR,0,Future Race
+213,2023,06.05,2023/05/06,2023/05/06,180,GP de Plumelec-Morbihan,1.Pro,Men,FRA,0,Future Race
+214,2023,06.05-28.05,2023/05/06,2023/05/28,13,Giro d'Italia,2.UWT,Men,ITA,0,Future Race
+215,2023,07.05,2023/05/07,2023/05/07,9613,Trofee Maarten Wynants,1.1,Women,BEL,0,Future Race
+216,2023,07.05,2023/05/07,2023/05/07,554,Flèche Ardennaise,1.2,Men,BEL,0,Future Race
+217,2023,07.05,2023/05/07,2023/05/07,49,Ringerike GP,1.2,Men,NOR,0,Future Race
+218,2023,07.05,2023/05/07,2023/05/07,41,Paris - Roubaix Espoirs,1.2U,Men,FRA,0,Future Race
+219,2023,07.05,2023/05/07,2023/05/07,148,Tro-Bro Leon,1.Pro,Men,FRA,0,Future Race
+220,2023,09.05-13.05,2023/05/09,2023/05/13,10433,Bretagne Ladies Tour,2.1,Women,FRA,0,Future Race
+221,2023,10.05,2023/05/10,2023/05/10,20782,The Tour Oqtosh - Chorvoq - Mountain I,1.2,Men,UZB,0,Future Race
+222,2023,10.05,2023/05/10,2023/05/10,20774,The Tour Oqtosh - Chorvoq - Mountain Ladies I,1.2,Women,UZB,0,Future Race
+223,2023,10.05,2023/05/10,2023/05/10,12195,Navarra Elite Classics,1.Pro,Women,ESP,0,Future Race
+224,2023,10.05-14.05,2023/05/10,2023/05/14,765,Tour de Hongrie,2.Pro,Men,HUN,0,Future Race
+225,2023,11.05,2023/05/11,2023/05/11,20783,The Tour Oqtosh - Chorvoq - Mountain II,1.2,Men,UZB,0,Future Race
+226,2023,11.05,2023/05/11,2023/05/11,20775,The Tour Oqtosh - Chorvoq - Mountain Ladies II,1.2,Women,UZB,0,Future Race
+227,2023,11.05-14.05,2023/05/11,2023/05/14,17336,Vuelta a Formosa Internacional,2.2,Men,ARG,0,Future Race
+228,2023,12.05-14.05,2023/05/12,2023/05/14,14244,Itzulia Women,2.WWT,Women,ESP,0,Future Race
+229,2023,13.05,2023/05/13,2023/05/13,147,Tour du Finistère,1.1,Men,FRA,0,Future Race
+230,2023,13.05,2023/05/13,2023/05/13,72,GP Herning,1.2,Men,DEN,0,Future Race
+231,2023,13.05,2023/05/13,2023/05/13,19320,Tour of Bostonliq I,1.2,Men,UZB,0,Future Race
+232,2023,13.05,2023/05/13,2023/05/13,19317,Tour of Bostonliq I Ladies,1.2,Women,UZB,0,Future Race
+233,2023,14.05,2023/05/14,2023/05/14,182,Boucles de l'Aulne,1.1,Men,FRA,0,Future Race
+234,2023,14.05,2023/05/14,2023/05/14,736,Fyen Rundt,1.2,Men,DEN,0,Future Race
+235,2023,14.05,2023/05/14,2023/05/14,19321,Tour of Bostonliq II,1.2,Men,UZB,0,Future Race
+236,2023,14.05,2023/05/14,2023/05/14,19318,Tour of Bostonliq II Ladies,1.2,Women,UZB,0,Future Race
+237,2023,14.05,2023/05/14,2023/05/14,313,GP Marmo,1.2U,Men,ITA,0,Future Race
+238,2023,16.05,2023/05/16,2023/05/16,9600,Durango-Durango,1.1,Women,ESP,0,Future Race
+239,2023,16.05-21.05,2023/05/16,2023/05/21,175,4 Jours de Dunkerque,2.Pro,Men,FRA,0,Future Race
+240,2023,17.05-21.05,2023/05/17,2023/05/21,67,Flèche du Sud,2.2,Men,LUX,0,Future Race
+241,2023,17.05-20.05,2023/05/17,2023/05/20,16532,Tour of Sakarya,2.2,Men,TUR,0,Future Race
+242,2023,18.05,2023/05/18,2023/05/18,537,Circuit de Wallonie,1.1,Men,BEL,0,Future Race
+243,2023,18.05-21.05,2023/05/18,2023/05/21,919,Joe Martin Stage Race,2.2,Men,USA,0,Future Race
+244,2023,18.05-21.05,2023/05/18,2023/05/21,9427,Joe Martin Stage Race,2.2,Women,USA,0,Future Race
+245,2023,18.05-21.05,2023/05/18,2023/05/21,10428,Vuelta a Burgos Feminas,2.WWT,Women,ESP,0,Future Race
+246,2023,19.05,2023/05/19,2023/05/19,9907,Veenendaal-Veenendaal,1.1,Women,NED,0,Future Race
+247,2023,20.05,2023/05/20,2023/05/20,50,Veenendaal Classic,1.1,Men,NED,0,Future Race
+248,2023,20.05,2023/05/20,2023/05/20,16507,ZLM Omloop der Kempen Ladies,1.2,Women,NED,0,Future Race
+249,2023,21.05,2023/05/21,2023/05/21,10204,Antwerp Port Epic,1.1,Men,BEL,0,Future Race
+250,2023,21.05,2023/05/21,2023/05/21,144,Rund um Köln,1.1,Men,GER,0,Future Race
+251,2023,21.05,2023/05/21,2023/05/21,18930,Antwerp Port Epic Ladies,1.1,Women,BEL,0,Future Race
+252,2023,21.05,2023/05/21,2023/05/21,16530,GP Gorenjska,1.2,Men,SLO,0,Future Race
+253,2023,21.05-28.05,2023/05/21,2023/05/28,341,Tour of Japan,2.1,Men,JPN,0,Future Race
+254,2023,22.05-26.05,2023/05/22,2023/05/26,7657,Tour of Albania,2.2,Men,ALB,0,Future Race
+255,2023,23.05-28.05,2023/05/23,2023/05/28,9810,Thüringen Ladies Tour,2.Pro,Women,GER,0,Future Race
+256,2023,24.05-28.05,2023/05/24,2023/05/28,315,Alpes Isère Tour,2.2,Men,FRA,0,Future Race
+257,2023,24.05-28.05,2023/05/24,2023/05/28,10674,Orlen Nations Grand Prix,2.NC,Men,POL,0,Future Race
+258,2023,25.05-27.05,2023/05/25,2023/05/27,250,Tour of Estonia,2.1,Men,EST,0,Future Race
+259,2023,25.05-28.05,2023/05/25,2023/05/28,7767,Tour de la Mirabelle,2.2,Men,FRA,0,Future Race
+260,2023,25.05-28.05,2023/05/25,2023/05/28,9912,Tour de Feminin,2.2,Women,CZE,0,Future Race
+261,2023,25.05-28.05,2023/05/25,2023/05/28,343,Boucles de la Mayenne,2.Pro,Men,FRA,0,Future Race
+262,2023,26.05,2023/05/26,2023/05/26,20369,Grand Prix du Prince Héritier Moulay El Hassan,1.2,Men,MAR,0,Future Race
+263,2023,26.05-28.05,2023/05/26,2023/05/28,4008,GP Beiras e Serra da Estrela,2.2,Men,POR,0,Future Race
+264,2023,26.05-29.05,2023/05/26,2023/05/29,71,Tour of Norway,2.Pro,Men,NOR,0,Future Race
+265,2023,26.05-28.05,2023/05/26,2023/05/28,9054,RideLondon Classique,2.WWT,Women,GBR,0,Future Race
+266,2023,27.05,2023/05/27,2023/05/27,3838,Grote Prijs Marcel Kint,1.1,Men,BEL,0,Future Race
+267,2023,27.05,2023/05/27,2023/05/27,734,2 Giorni Marchigiana - GP Santa Rita,1.2,Men,ITA,0,Future Race
+268,2023,27.05,2023/05/27,2023/05/27,20370,Grand Prix du Trône,1.2,Men,MAR,0,Future Race
+269,2023,27.05,2023/05/27,2023/05/27,16508,Ladies Tour of Estonia,1.2,Women,EST,0,Future Race
+270,2023,28.05,2023/05/28,2023/05/28,13594,GP Ciudad de Eibar,1.1,Women,ESP,0,Future Race
+271,2023,28.05,2023/05/28,2023/05/28,20371,Grand Prix de la Famille Royale,1.2,Men,MAR,0,Future Race
+272,2023,28.05,2023/05/28,2023/05/28,408,Trofeo Castelfidardo,1.2,Men,ITA,0,Future Race
+273,2023,28.05-30.05,2023/05/28,2023/05/30,503,Jelajah Malaysia,2.2,Men,MAS,0,Future Race
+274,2023,29.05,2023/05/29,2023/05/29,437,Ronde van Limburg,1.1,Men,BEL,0,Future Race
+275,2023,29.05,2023/05/29,2023/05/29,285,Paris-Troyes,1.2,Men,FRA,0,Future Race
+276,2023,29.05,2023/05/29,2023/05/29,17077,GP Mazda Schelkens,1.2,Women,BEL,0,Future Race
+277,2023,30.05,2023/05/30,2023/05/30,13188,Mercan Tour Classic Alpes-Maritimes,1.1,Men,FRA,0,Future Race
+278,2023,31.05-04.06,2023/05/31,2023/06/04,16502,Vuelta a Andalucia Ruta Del Sol,2.1,Women,ESP,0,Future Race
+279,2023,31.05-04.06,2023/05/31,2023/06/04,16502,Vuelta a Andalucia Ruta Del Sol,2.1,Women,ESP,0,Future Race
+280,2023,01.06-04.06,2023/06/01,2023/06/04,552,Oberösterreich Rundfahrt,2.2,Men,AUT,0,Future Race
+281,2023,01.06-04.06,2023/06/01,2023/06/04,345,Ronde de l'Oise,2.2,Men,FRA,0,Future Race
+282,2023,01.06-04.06,2023/06/01,2023/06/04,386,Tour of Malopolska,2.2,Men,POL,0,Future Race
+283,2023,02.06,2023/06/02,2023/06/02,149,Giro dell'Appennino,1.1,Men,ITA,0,Future Race
+284,2023,02.06,2023/06/02,2023/06/02,18794,Kozagawa Road Race,1.2,Men,JPN,0,Future Race
+285,2023,02.06,2023/06/02,2023/06/02,546,Trofeo Alcide DeGasperi,1.2,Men,ITA,0,Future Race
+286,2023,03.06,2023/06/03,2023/06/03,349,Heistse Pijl,1.1,Men,BEL,0,Future Race
+287,2023,03.06-04.06,2023/06/03,2023/06/04,502,Tour de Kumano,2.2,Men,JPN,0,Future Race
+288,2023,03.06-04.06,2023/06/03,2023/06/04,15071,Belgrade GP Woman Tour,2.2,Women,SBA,0,Future Race
+289,2023,04.06,2023/06/04,2023/06/04,16509,Alpes Gresivaudan Classic,1.1,Women,FRA,0,Future Race
+290,2023,04.06,2023/06/04,2023/06/04,9811,Dwars door de Westhoek,1.1,Women,BEL,0,Future Race
+291,2023,04.06,2023/06/04,2023/06/04,351,Memorial van Coningsloo,1.2,Men,BEL,0,Future Race
+292,2023,04.06,2023/06/04,2023/06/04,550,Coppa della Pace,1.2U,Men,ITA,0,Future Race
+293,2023,04.06,2023/06/04,2023/06/04,64,Brussels Classic,1.Pro,Men,BEL,0,Future Race
+294,2023,04.06-11.06,2023/06/04,2023/06/11,15,Criterium Dauphine,2.UWT,Men,FRA,0,Future Race
+295,2023,06.06-09.06,2023/06/06,2023/06/09,5228,Tour de Maurice,2.2,Men,MRI,0,Future Race
+296,2023,07.06-11.06,2023/06/07,2023/06/11,18950,Aziz Shusha,2.2,Men,AZE,0,Future Race
+297,2023,07.06-11.06,2023/06/07,2023/06/11,9913,Vuelta femenina a Guatemala,2.2,Women,GUA,0,Future Race
+298,2023,07.06-11.06,2023/06/07,2023/06/11,213,ZLM Tour,2.Pro,Men,NED,0,Future Race
+299,2023,08.06-12.06,2023/06/08,2023/06/12,18949,Go Philippines Tour International,2.2,Men,PHI,0,Future Race
+300,2023,08.06-11.06,2023/06/08,2023/06/11,14005,Course de la Paix,2.NC,Men,CZE,0,Future Race
+301,2023,09.06,2023/06/09,2023/06/09,199,GP Kanton Aargau,1.1,Men,SUI,0,Future Race
+302,2023,09.06-11.06,2023/06/09,2023/06/11,16505,CIC-Tour Féminin Pyrénées,2.1,Women,FRA,0,Future Race
+303,2023,09.06-11.06,2023/06/09,2023/06/11,2119,Tour d'Eure-et-Loir,2.2,Men,FRA,0,Future Race
+304,2023,10.06,2023/06/10,2023/06/10,15067,Dwars door het Hageland,1.1,Women,BEL,0,Future Race
+305,2023,10.06,2023/06/10,2023/06/10,425,Dwars door het Hageland,1.Pro,Men,BEL,0,Future Race
+306,2023,10.06-11.06,2023/06/10,2023/06/11,20012,Kirikkale Road Race,2.2,Men,TUR,0,Future Race
+307,2023,11.06,2023/06/11,2023/06/11,8515,Elfstedenronde,1.1,Men,BEL,0,Future Race
+308,2023,11.06,2023/06/11,2023/06/11,9853,Flanders Diamond Tour,1.1,Women,BEL,0,Future Race
+309,2023,11.06,2023/06/11,2023/06/11,20159,Courts Mamouth Classique de l'ìle Maurice,1.2,Men,MRI,0,Future Race
+310,2023,11.06-18.06,2023/06/11,2023/06/18,226,Giro Ciclistico d'Italia,2.2U,Men,ITA,0,Future Race
+311,2023,11.06-18.06,2023/06/11,2023/06/18,16,Tour de Suisse,2.UWT,Men,SUI,0,Future Race
+312,2023,13.06,2023/06/13,2023/06/13,10459,Mont Ventoux Dénivelé Challenge,1.Pro,Men,FRA,0,Future Race
+313,2023,14.06-18.06,2023/06/14,2023/06/18,9905,Lotto Belgium Tour,2.1,Women,BEL,0,Future Race
+314,2023,14.06-18.06,2023/06/14,2023/06/18,235,Tour de Beauce,2.2,Men,CAN,0,Future Race
+315,2023,14.06-18.06,2023/06/14,2023/06/18,60,Belgium Tour,2.Pro,Men,BEL,0,Future Race
+316,2023,14.06-18.06,2023/06/14,2023/06/18,211,Tour of Slovenia,2.Pro,Men,SLO,0,Future Race
+317,2023,15.06-18.06,2023/06/15,2023/06/18,212,Route d'Occitanie,2.1,Men,FRA,0,Future Race
+318,2023,16.06-24.06,2023/06/16,2023/06/24,291,Tour du Maroc,2.2,Men,MAR,0,Future Race
+319,2023,16.06-18.06,2023/06/16,2023/06/18,14426,Tour du Pays de Montbéliard,2.2,Men,FRA,0,Future Race
+320,2023,16.06-25.06,2023/06/16,2023/06/25,86,Vuelta a Colombia,2.2,Men,COL,0,Future Race
+321,2023,17.06,2023/06/17,2023/06/17,20776,Reginom Nitrianskeho Kraja,1.2,Women,SVK,0,Future Race
+322,2023,17.06-20.06,2023/06/17,2023/06/20,14577,Tour de Suisse,2.WWT,Women,SUI,0,Future Race
+323,2023,25.06,2023/06/25,2023/06/25,20372,Grand Prix de Casablanca,1.2,Men,MAR,0,Future Race
+324,2023,28.06,2023/06/28,2023/06/28,231,Circuit Franco-Belge,1.Pro,Men,BEL,0,Future Race
+325,2023,28.06-01.07,2023/06/28,2023/07/01,257,Solidarnosc Champions,2.2,Men,POL,0,Future Race
+326,2023,28.06-01.07,2023/06/28,2023/07/01,257,Solidarnosc Champions,2.2,Men,POL,0,Future Race
+327,2023,30.06-09.07,2023/06/30,2023/07/09,9064,Giro d'Italia Donne,2.WWT,Women,ITA,0,Future Race
+328,2023,30.06-09.07,2023/06/30,2023/07/09,9064,Giro d'Italia Donne,2.WWT,Women,ITA,0,Future Race
+329,2023,01.07,2023/07/01,2023/07/01,20777,GP of the Mayor of the city Žiar nad Hronom,1.2,Women,SVK,0,Future Race
+330,2023,01.07-23.07,2023/07/01,2023/07/23,17,Tour de France,2.UWT,Men,FRA,0,Future Race
+331,2023,02.07,2023/07/02,2023/07/02,559,Giro del Medio Brenta,1.2,Men,ITA,0,Future Race
+332,2023,02.07,2023/07/02,2023/07/02,2088,Midden Brabant,1.2,Men,NED,0,Future Race
+333,2023,02.07,2023/07/02,2023/07/02,20778,Tour de Berlin Feminin,1.2,Women,GER,0,Future Race
+334,2023,02.07-06.07,2023/07/02,2023/07/06,38,Österreich-Rundfahrt,2.1,Men,AUT,0,Future Race
+335,2023,04.07,2023/07/04,2023/07/04,662,Trofeo Citta di Brescia,1.2,Men,ITA,0,Future Race
+336,2023,06.07-09.07,2023/07/06,2023/07/09,258,Sibiu Cycling Tour,2.1,Men,ROM,0,Future Race
+337,2023,08.07,2023/07/08,2023/07/08,582,GP Hungary,1.2,Men,HUN,0,Future Race
+338,2023,08.07,2023/07/08,2023/07/08,11357,Grand Prix Erciyes,1.2,Men,TUR,0,Future Race
+339,2023,08.07,2023/07/08,2023/07/08,16511,Groupama Ladies Race Slovakia,1.2,Women,SVK,0,Future Race
+340,2023,09.07,2023/07/09,2023/07/09,13595,2 Districtenpijl - Ekeren-Deurne,1.1,Women,BEL,0,Future Race
+341,2023,09.07,2023/07/09,2023/07/09,581,GP Slovakia,1.2,Men,SVK,0,Future Race
+342,2023,09.07-16.07,2023/07/09,2023/07/16,127,Tour of Qinghai Lake,2.Pro,Men,CHN,0,Future Race
+343,2023,12.07-16.07,2023/07/12,2023/07/16,9904,Baloise Ladies Tour,2.1,Women,BEL,0,Future Race
+344,2023,12.07-16.07,2023/07/12,2023/07/16,229,Valle d'Aosta,2.2U,Men,ITA,0,Future Race
+345,2023,13.07-16.07,2023/07/13,2023/07/16,398,GP Torres Vedras,2.2,Men,POR,0,Future Race
+346,2023,13.07-16.07,2023/07/13,2023/07/16,10435,Vuelta Costa Rica,2.2,Women,CRC,0,Future Race
+347,2023,14.07-16.07,2023/07/14,2023/07/16,703,GP de Gemenc,2.2,Men,HUN,0,Future Race
+348,2023,15.07,2023/07/15,2023/07/15,3239,KOGA Slag om Norg,1.1,Men,NED,0,Future Race
+349,2023,16.07,2023/07/16,2023/07/16,18938,Grand Prix Stuttgart &amp; Region,1.2,Women,GER,0,Future Race
+350,2023,19.07,2023/07/19,2023/07/19,20074,SD WORX BW Classic,1.2,Men,BEL,0,Future Race
+351,2023,21.07-23.07,2023/07/21,2023/07/23,20780,Tour of Huangshan,2.2,Men,CHN,0,Future Race
+352,2023,22.07,2023/07/22,2023/07/22,579,GP Polski Via Odra,1.2,Men,POL,0,Future Race
+353,2023,22.07-26.07,2023/07/22,2023/07/26,193,Tour de Wallonie,2.Pro,Men,BEL,0,Future Race
+354,2023,23.07,2023/07/23,2023/07/23,18957,Cupa Max Ausnit,1.2,Men,ROM,0,Future Race
+355,2023,23.07,2023/07/23,2023/07/23,580,GP Czech Republic,1.2,Men,CZE,0,Future Race
+356,2023,23.07,2023/07/23,2023/07/23,583,GP de Pérenchies,1.2,Men,FRA,0,Future Race
+357,2023,23.07,2023/07/23,2023/07/23,209,GP Kranj,1.2,Men,SLO,0,Future Race
+358,2023,23.07-30.07,2023/07/23,2023/07/30,15687,Tour de France Femmes,2.WWT,Women,FRA,0,Future Race
+359,2023,25.07,2023/07/25,2023/07/25,207,Villafranca de Ordizia,1.1,Men,ESP,0,Future Race
+360,2023,25.07,2023/07/25,2023/07/25,531,Mem. A.Trochanowskiego,1.2,Men,POL,0,Future Race
+361,2023,26.07-27.07,2023/07/26,2023/07/27,85,Vuelta a Castilla y León,2.1,Men,ESP,0,Future Race
+362,2023,26.07-29.07,2023/07/26,2023/07/29,563,Dookola Mazowsza,2.2,Men,POL,0,Future Race
+363,2023,26.07-30.07,2023/07/26,2023/07/30,230,Tour Alsace,2.2,Men,FRA,0,Future Race
+364,2023,26.07-30.07,2023/07/26,2023/07/30,10106,Vuelta a Colombia Femenina,2.2,Women,COL,0,Future Race
+365,2023,27.07-30.07,2023/07/27,2023/07/30,15209,SAZKA Tour,2.1,Men,CZE,0,Future Race
+366,2023,28.07-31.07,2023/07/28,2023/07/31,385,Kreiz Breizh Elites,2.2,Men,FRA,0,Future Race
+367,2023,28.07-30.07,2023/07/28,2023/07/30,16504,Princess Anna Vasa Tour,2.2,Women,POL,0,Future Race
+368,2023,29.07,2023/07/29,2023/07/29,18,Donostia San Sebastian Klasikoa,1.UWT,Men,ESP,0,Future Race
+369,2023,29.07-04.08,2023/07/29,2023/08/04,19,Tour de Pologne,2.UWT,Men,POL,0,Future Race
+370,2023,29.07-04.08,2023/07/29,2023/08/04,19,Tour de Pologne,2.UWT,Men,POL,0,Future Race
+371,2023,30.07,2023/07/30,2023/07/30,202,Circuito de Getxo,1.1,Men,ESP,0,Future Race
+372,2023,30.07,2023/07/30,2023/07/30,20018,Grand Prix Kültepe,1.2,Men,TUR,0,Future Race
+373,2023,30.07,2023/07/30,2023/07/30,4014,Puchar Mon,1.2,Men,POL,0,Future Race
+374,2023,31.07-02.08,2023/07/31,2023/08/02,63,Tour de l'Ain,2.1,Men,FRA,0,Future Race
+375,2023,31.07-02.08,2023/07/31,2023/08/02,63,Tour de l'Ain,2.1,Men,FRA,0,Future Race
+376,2023,01.08,2023/08/01,2023/08/01,9918,Kreiz Breizh Elites Dames,1.1,Women,FRA,0,Future Race
+377,2023,01.08-05.08,2023/08/01,2023/08/05,20021,100th Anniversary Tour of The Republic,2.2,Men,TUR,0,Future Race
+378,2023,01.08-03.08,2023/08/01,2023/08/03,9647,Tour of Uppsala,2.2,Women,SWE,0,Future Race
+379,2023,04.08-13.08,2023/08/04,2023/08/13,586,Tour de la Guadeloupe,2.2,Men,FRA,0,Future Race
+380,2023,05.08,2023/08/05,2023/08/05,281,Scandinavian Race,1.2,Men,SWE,0,Future Race
+381,2023,06.08,2023/08/06,2023/08/06,26,World Championship RR,WCRR,Men,UCI,0,Future Race
+382,2023,08.08-12.08,2023/08/08,2023/08/12,566,Tour of Szeklerland,2.2,Men,ROM,0,Future Race
+383,2023,08.08,2023/08/08,2023/08/08,12533,World Championship Mixed Relay,WCTT,Men,UCI,0,Future Race
+384,2023,08.08,2023/08/08,2023/08/08,12533,World Championship Mixed Relay,WCTT,Women,UCI,0,Future Race
+385,2023,09.08-20.08,2023/08/09,2023/08/20,197,Volta a Portugal,2.1,Men,POR,0,Future Race
+386,2023,09.08,2023/08/09,2023/08/09,46,World Championship ITT-U23,WCUT,Men,UCI,0,Future Race
+387,2023,10.08,2023/08/10,2023/08/10,27,World Championship ITT,WCTT,Men,UCI,0,Future Race
+388,2023,10.08,2023/08/10,2023/08/10,9068,World Championship ITT,WCTT,Women,UCI,0,Future Race
+389,2023,12.08,2023/08/12,2023/08/12,11633,Gran Premio Guatemala,1.2,Men,GUA,0,Future Race
+390,2023,12.08,2023/08/12,2023/08/12,383,Mem.Henryka Lasaka,1.2,Men,POL,0,Future Race
+391,2023,12.08,2023/08/12,2023/08/12,12377,La Périgord Ladies,1.2,Women,FRA,0,Future Race
+392,2023,12.08,2023/08/12,2023/08/12,43,World Championship RR-U23,WCU,Men,UCI,0,Future Race
+393,2023,13.08,2023/08/13,2023/08/13,203,Polynormande,1.1,Men,FRA,0,Future Race
+394,2023,13.08,2023/08/13,2023/08/13,11634,Gran Premio Chapin,1.2,Men,GUA,0,Future Race
+395,2023,13.08,2023/08/13,2023/08/13,18958,Grote Prijs Stad Halle,1.2,Men,BEL,0,Future Race
+396,2023,13.08,2023/08/13,2023/08/13,18539,Memorial Jana Magiery,1.2,Men,POL,0,Future Race
+397,2023,13.08,2023/08/13,2023/08/13,12378,La Picto-Charentaise,1.2,Women,FRA,0,Future Race
+398,2023,13.08,2023/08/13,2023/08/13,389,GP Poggiana,1.2U,Men,ITA,0,Future Race
+399,2023,13.08,2023/08/13,2023/08/13,9067,World Championship RR,WCRR,Women,UCI,0,Future Race
+400,2023,15.08,2023/08/15,2023/08/15,161,Tour of Leuven,1.1,Men,BEL,0,Future Race
+401,2023,15.08,2023/08/15,2023/08/15,17078,Grote Prijs Yvonne Reynders,1.2,Women,BEL,0,Future Race
+402,2023,15.08-18.08,2023/08/15,2023/08/18,191,Tour du Limousin,2.1,Men,FRA,0,Future Race
+403,2023,15.08-20.08,2023/08/15,2023/08/20,12557,Le Tour de Femina Malaysia,2.2,Women,MAS,0,Future Race
+404,2023,15.08-19.08,2023/08/15,2023/08/19,32,PostNord Danmark Rundt,2.Pro,Men,DEN,0,Future Race
+405,2023,15.08-19.08,2023/08/15,2023/08/19,192,Vuelta a Burgos,2.Pro,Men,ESP,0,Future Race
+406,2023,16.08,2023/08/16,2023/08/16,568,GP Capodarco,1.2U,Men,ITA,0,Future Race
+407,2023,17.08-20.08,2023/08/17,2023/08/20,391,Baltic Chain Tour,2.2,Men,EST,0,Future Race
+408,2023,17.08-20.08,2023/08/17,2023/08/20,259,Arctic Race of Norway,2.Pro,Men,NOR,0,Future Race
+409,2023,18.08,2023/08/18,2023/08/18,17781,Konvert Kortrijk Koerse,1.1,Women,BEL,0,Future Race
+410,2023,19.08,2023/08/19,2023/08/19,186,Druivenkoers Overijse,1.1,Men,BEL,0,Future Race
+411,2023,19.08,2023/08/19,2023/08/19,14770,GP Oetingen,1.1,Women,BEL,0,Future Race
+412,2023,19.08,2023/08/19,2023/08/19,20019,Grand Prix Kaisareia,1.2,Men,TUR,0,Future Race
+413,2023,19.08,2023/08/19,2023/08/19,20009,Grand Prix Kaisareia,1.2,Women,TUR,0,Future Race
+414,2023,19.08-20.08,2023/08/19,2023/08/20,14580,Subway 3 Stage Race,2.2,Men,ATG,0,Future Race
+415,2023,20.08,2023/08/20,2023/08/20,188,Egmont Cycling Race,1.1,Men,BEL,0,Future Race
+416,2023,20.08,2023/08/20,2023/08/20,20,BEMER Cyclassics,1.UWT,Men,GER,0,Future Race
+417,2023,20.08-27.08,2023/08/20,2023/08/27,44,Tour de l'Avenir,2.NC,Men,FRA,0,Future Race
+418,2023,22.08,2023/08/22,2023/08/22,20779,Egmont Cycling Race Women,1.2,Women,BEL,0,Future Race
+419,2023,22.08-25.08,2023/08/22,2023/08/25,187,Poitou-Charentes,2.1,Men,FRA,0,Future Race
+420,2023,22.08-27.08,2023/08/22,2023/08/27,15688,Tour of Scandinavia,2.WWT,Women,NOR,0,Future Race
+421,2023,23.08-27.08,2023/08/23,2023/08/27,431,Tour do Rio,2.2,Men,BRA,0,Future Race
+422,2023,23.08-27.08,2023/08/23,2023/08/27,36,Deutschland Tour,2.Pro,Men,GER,0,Future Race
+423,2023,23.08-27.08,2023/08/23,2023/08/27,21,Benelux Tour,2.UWT,Men,NED,0,Future Race
+424,2023,24.08-27.08,2023/08/24,2023/08/27,9914,Giro Toscana Int. Femminile,2.2,Women,ITA,0,Future Race
+425,2023,25.08-27.08,2023/08/25,2023/08/27,20013,Tour of Yigido,2.2,Men,TUR,0,Future Race
+426,2023,26.08-31.08,2023/08/26,2023/08/31,955,Tour of Bulgaria,2.2,Men,BUL,0,Future Race
+427,2023,26.08-17.09,2023/08/26,2023/09/17,23,Vuelta a España,2.UWT,Men,ESP,0,Future Race
+428,2023,26.08-17.09,2023/08/26,2023/09/17,23,Vuelta a España,2.UWT,Men,ESP,0,Future Race
+429,2023,27.08,2023/08/27,2023/08/27,8310,Ronde van de Achterhoek,1.2,Men,NED,0,Future Race
+430,2023,28.08-01.09,2023/08/28,2023/09/01,18940,Tour de l'Avenir Féminin,2.2U,Women,FRA,0,Future Race
+431,2023,28.08-01.09,2023/08/28,2023/09/01,18940,Tour de l'Avenir Féminin,2.2U,Women,FRA,0,Future Race
+432,2023,29.08,2023/08/29,2023/08/29,18956,Tour of Kandovan,1.2,Men,IRN,0,Future Race
+433,2023,30.08,2023/08/30,2023/08/30,18959,Muur Classic Geraardsbergen,1.2,Men,BEL,0,Future Race
+434,2023,31.08-04.09,2023/08/31,2023/09/04,434,Tour of Iran,2.1,Men,IRN,0,Future Race
+435,2023,31.08-04.09,2023/08/31,2023/09/04,434,Tour of Iran,2.1,Men,IRN,0,Future Race
+436,2023,31.08-03.09,2023/08/31,2023/09/03,538,Giro della Regione Friuli,2.2,Men,ITA,0,Future Race
+437,2023,31.08-03.09,2023/08/31,2023/09/03,538,Giro della Regione Friuli,2.2,Men,ITA,0,Future Race
+438,2023,31.08-02.09,2023/08/31,2023/09/02,15096,Flanders Tomorrow Tour,2.2U,Men,BEL,0,Future Race
+439,2023,31.08-02.09,2023/08/31,2023/09/02,15096,Flanders Tomorrow Tour,2.2U,Men,BEL,0,Future Race
+440,2023,02.09,2023/09/02,2023/09/02,9204,Lillehammer GP,1.2,Men,NOR,0,Future Race
+441,2023,02.09,2023/09/02,2023/09/02,9057,Classic Lorient Agglomération,1.WWT,Women,FRA,0,Future Race
+442,2023,02.09-03.09,2023/09/02,2023/09/03,10675,In the Steps of Romans,2.2,Men,BUL,0,Future Race
+443,2023,02.09-06.09,2023/09/02,2023/09/06,501,Tour de Singkarak,2.2,Men,IDN,0,Future Race
+444,2023,03.09,2023/09/03,2023/09/03,13601,Grote Prijs Beerens,1.1,Women,BEL,0,Future Race
+445,2023,03.09,2023/09/03,2023/09/03,8328,GP Plouay Elite Open ,1.2,Men,FRA,0,Future Race
+446,2023,03.09,2023/09/03,2023/09/03,9205,Gylne Gutuer,1.2,Men,NOR,0,Future Race
+447,2023,03.09,2023/09/03,2023/09/03,20599,PingTan International Road Race,1.2,Men,CHN,0,Future Race
+448,2023,03.09,2023/09/03,2023/09/03,13191,Maryland Cycling Classic,1.Pro,Men,USA,0,Future Race
+449,2023,03.09,2023/09/03,2023/09/03,22,Bretagne Classic,1.UWT,Men,FRA,0,Future Race
+450,2023,03.09-10.09,2023/09/03,2023/09/10,45,Tour of Britain,2.Pro,Men,GBR,0,Future Race
+451,2023,04.09-10.09,2023/09/04,2023/09/10,549,Turul Romaniei,2.1,Men,ROM,0,Future Race
+452,2023,05.09-11.09,2023/09/05,2023/09/11,9906,Tour Feminin l'Ardeche,2.1,Women,FRA,0,Future Race
+453,2023,05.09-10.09,2023/09/05,2023/09/10,9066,Simac Ladies Tour,2.WWT,Women,NED,0,Future Race
+454,2023,07.09-10.09,2023/09/07,2023/09/10,401,Okolo Jiznich Cech,2.2,Men,CZE,0,Future Race
+455,2023,07.09-09.09,2023/09/07,2023/09/09,9699,Tour of Kosovo,2.2,Men,KOS,0,Future Race
+456,2023,07.09-10.09,2023/09/07,2023/09/10,20020,Tour of Van,2.2,Men,TUR,0,Future Race
+457,2023,08.09,2023/09/08,2023/09/08,602,G.P. Khouribga,1.2,Men,MAR,0,Future Race
+458,2023,08.09,2023/09/08,2023/09/08,59,GP Quebec,1.UWT,Men,CAN,0,Future Race
+459,2023,08.09-10.09,2023/09/08,2023/09/10,499,Tour de Hokkaido,2.2,Men,JPN,0,Future Race
+460,2023,09.09,2023/09/09,2023/09/09,604,G.P.Fkih Ben Saleh,1.2,Men,MAR,0,Future Race
+461,2023,09.09,2023/09/09,2023/09/09,17099,A Travers les Hauts de France,1.2,Women,FRA,0,Future Race
+462,2023,10.09,2023/09/10,2023/09/10,166,GP de la Somme,1.2,Men,FRA,0,Future Race
+463,2023,10.09,2023/09/10,2023/09/10,20373,Grand Prix de Ben Guerir,1.2,Men,MAR,0,Future Race
+464,2023,10.09,2023/09/10,2023/09/10,10950,GP Fourmies Women,1.2,Women,FRA,0,Future Race
+465,2023,10.09,2023/09/10,2023/09/10,92,GP de Fourmies,1.Pro,Men,FRA,0,Future Race
+466,2023,10.09,2023/09/10,2023/09/10,58,GP Montreal,1.UWT,Men,CAN,0,Future Race
+467,2023,13.09,2023/09/13,2023/09/13,4025,Giro della Toscana,1.1,Men,ITA,0,Future Race
+468,2023,13.09,2023/09/13,2023/09/13,17169,Grisette Grand Prix de Wallonie,1.1,Women,BEL,0,Future Race
+469,2023,13.09,2023/09/13,2023/09/13,93,GP de Wallonie,1.Pro,Men,BEL,0,Future Race
+470,2023,13.09-17.09,2023/09/13,2023/09/17,380,Okolo Slovenska,2.1,Men,SVK,0,Future Race
+471,2023,13.09-16.09,2023/09/13,2023/09/16,344,Tour de Serbie,2.2,Men,SBA,0,Future Race
+472,2023,14.09,2023/09/14,2023/09/14,160,Coppa Sabatini,1.Pro,Men,ITA,0,Future Race
+473,2023,14.09-17.09,2023/09/14,2023/09/17,242,Tour of Taihu Lake,2.Pro,Men,CHN,0,Future Race
+474,2023,15.09,2023/09/15,2023/09/15,167,Kamp. van Vlaanderen,1.1,Men,BEL,0,Future Race
+475,2023,15.09-16.09,2023/09/15,2023/09/16,13600,AG Tour de la Semois,2.2,Women,BEL,0,Future Race
+476,2023,15.09-17.09,2023/09/15,2023/09/17,13609,Watersley Womens Challenge,2.2U,Women,NED,0,Future Race
+477,2023,15.09-17.09,2023/09/15,2023/09/17,16500,Tour de Romandie,2.WWT,Women,SUI,0,Future Race
+478,2023,16.09,2023/09/16,2023/09/16,68,Memorial Pantani,1.1,Men,ITA,0,Future Race
+479,2023,16.09,2023/09/16,2023/09/16,9852,Chrono de Gatineau,1.1,Women,CAN,0,Future Race
+480,2023,16.09,2023/09/16,2023/09/16,168,Primus Classic,1.Pro,Men,BEL,0,Future Race
+481,2023,17.09,2023/09/17,2023/09/17,444,Gooikse Pijl,1.1,Men,BEL,0,Future Race
+482,2023,17.09,2023/09/17,2023/09/17,171,GP d'Isbergues,1.1,Men,FRA,0,Future Race
+483,2023,17.09,2023/09/17,2023/09/17,205,Trofeo Matteotti,1.1,Men,ITA,0,Future Race
+484,2023,17.09,2023/09/17,2023/09/17,9851,Grand Prix Gatineau,1.1,Women,CAN,0,Future Race
+485,2023,17.09,2023/09/17,2023/09/17,9979,GP Rik Van Looy,1.2,Men,BEL,0,Future Race
+486,2023,17.09,2023/09/17,2023/09/17,9921,GP d'Isbergues,1.2,Women,FRA,0,Future Race
+487,2023,20.09,2023/09/20,2023/09/20,170,Omloop van het Houtland,1.1,Men,BEL,0,Future Race
+488,2023,20.09-24.09,2023/09/20,2023/09/24,8516,Adriatica Ionica Race,2.1,Men,ITA,0,Future Race
+489,2023,20.09-24.09,2023/09/20,2023/09/24,37,Tour de Luxembourg,2.Pro,Men,LUX,0,Future Race
+490,2023,21.09,2023/09/21,2023/09/21,4020,CC Europe ITT,CCTT,Men,UCI,0,Future Race
+491,2023,21.09,2023/09/21,2023/09/21,9923,CC Europe Women ITT,CCTT,Women,UCI,0,Future Race
+492,2023,21.09,2023/09/21,2023/09/21,347,CC Europe ITT-U23,CCUT,Men,UCI,0,Future Race
+493,2023,21.09,2023/09/21,2023/09/21,9925,CC Europe Women ITT-U23,CCUT,Women,UCI,0,Future Race
+494,2023,23.09-24.09,2023/09/23,2023/09/24,16539,Tour of Binzhou,2.2,Men,CHN,0,Future Race
+495,2023,23.09-30.09,2023/09/23,2023/09/30,672,Vuelta a Ecuador,2.2,Men,ECU,0,Future Race
+496,2023,23.09-30.09,2023/09/23,2023/09/30,128,Tour de Langkawi,2.Pro,Men,MAS,0,Future Race
+497,2023,23.09,2023/09/23,2023/09/23,9922,CC Europe Women RR,CCRR,Women,UCI,0,Future Race
+498,2023,23.09,2023/09/23,2023/09/23,348,CC Europe RR-U23,CCU,Men,UCI,0,Future Race
+499,2023,23.09,2023/09/23,2023/09/23,9924,CC Europe Women RR-U23,CCU,Women,UCI,0,Future Race
+500,2023,24.09,2023/09/24,2023/09/24,949,Paris-Chauny,1.1,Men,FRA,0,Future Race
+501,2023,24.09,2023/09/24,2023/09/24,4019,CC Europe RR,CCRR,Men,UCI,0,Future Race
+502,2023,26.09,2023/09/26,2023/09/26,409,Ruota d'Oro,1.2U,Men,ITA,0,Future Race
+503,2023,26.09-01.10,2023/09/26,2023/10/01,773,CRO Race,2.1,Men,CRO,0,Future Race
+504,2023,26.09-01.10,2023/09/26,2023/10/01,773,CRO Race,2.1,Men,CRO,0,Future Race
+505,2023,27.09-30.09,2023/09/27,2023/09/30,20781,Tour of Istanbul,2.2,Men,TUR,0,Future Race
+506,2023,27.09-01.10,2023/09/27,2023/10/01,241,Ronde de l'Isard,2.2U,Men,FRA,0,Future Race
+507,2023,27.09-01.10,2023/09/27,2023/10/01,241,Ronde de l'Isard,2.2U,Men,FRA,0,Future Race
+508,2023,28.09,2023/09/28,2023/09/28,262,Coppa Agostoni,1.1,Men,ITA,0,Future Race
+509,2023,30.09,2023/09/30,2023/09/30,142,GP Pino Cerami,1.2,Men,BEL,0,Future Race
+510,2023,30.09,2023/09/30,2023/09/30,29,Giro dell'Emilia,1.Pro,Men,ITA,0,Future Race
+511,2023,30.09,2023/09/30,2023/09/30,9909,Giro dell'Emilia,1.Pro,Women,ITA,0,Future Race
+512,2023,01.10,2023/10/01,2023/10/01,7660,Famenne Ardenne Classic,1.1,Men,BEL,0,Future Race
+513,2023,01.10,2023/10/01,2023/10/01,94,Tour de Vendée,1.1,Men,FRA,0,Future Race
+514,2023,01.10,2023/10/01,2023/10/01,374,Trofeo Baracchi,1.1,Men,ITA,0,Future Race
+515,2023,01.10,2023/10/01,2023/10/01,8523,Oita Urban Classic,1.2,Men,JPN,0,Future Race
+516,2023,01.10,2023/10/01,2023/10/01,18939,Trofeo Baracchi,1.2,Women,ITA,0,Future Race
+517,2023,01.10,2023/10/01,2023/10/01,390,Piccolo Giro di Lombardia,1.2U,Men,ITA,0,Future Race
+518,2023,02.10,2023/10/02,2023/10/02,196,Coppa Bernocchi,1.Pro,Men,ITA,0,Future Race
+519,2023,03.10,2023/10/03,2023/10/03,159,Binche-Chimay-Binche,1.1,Men,BEL,0,Future Race
+520,2023,03.10,2023/10/03,2023/10/03,15070,Binche-Chimay-Binche pour Dames,1.1,Women,BEL,0,Future Race
+521,2023,03.10,2023/10/03,2023/10/03,13689,Tre Valli Varesine Women,1.1,Women,ITA,0,Future Race
+522,2023,03.10,2023/10/03,2023/10/03,158,Munsterland Giro,1.Pro,Men,GER,0,Future Race
+523,2023,03.10,2023/10/03,2023/10/03,190,Tre Valli Varesine,1.Pro,Men,ITA,0,Future Race
+524,2023,04.10,2023/10/04,2023/10/04,16523,Bloeizone Elfsteden Fryslan,1.1,Men,NED,0,Future Race
+525,2023,04.10-08.10,2023/10/04,2023/10/08,11847,Tour of Peninsula,2.1,Men,MAS,0,Future Race
+526,2023,04.10-08.10,2023/10/04,2023/10/08,16540,International Syrian Tour,2.2,Men,SYR,0,Future Race
+527,2023,04.10-08.10,2023/10/04,2023/10/08,16626,International Syrian Tour,2.2,Women,SYR,0,Future Race
+528,2023,05.10,2023/10/05,2023/10/05,157,Paris - Bourges,1.1,Men,FRA,0,Future Race
+529,2023,05.10,2023/10/05,2023/10/05,61,Gran Piemonte,1.Pro,Men,ITA,0,Future Race
+530,2023,05.10-09.10,2023/10/05,2023/10/09,139,Tour of Hainan,2.Pro,Men,CHN,0,Future Race
+531,2023,07.10,2023/10/07,2023/10/07,24,Il Lombardia,1.UWT,Men,ITA,0,Future Race
+532,2023,07.10-09.10,2023/10/07,2023/10/09,18945,Tour de Kyushu,2.1,Men,JPN,0,Future Race
+533,2023,08.10,2023/10/08,2023/10/08,238,Paris - Tours,1.2U,Men,FRA,0,Future Race
+534,2023,08.10,2023/10/08,2023/10/08,28,Paris - Tours,1.Pro,Men,FRA,0,Future Race
+535,2023,08.10-15.10,2023/10/08,2023/10/15,152,Tour of Türkiye,2.1,Men,TUR,0,Future Race
+536,2023,10.10-11.10,2023/10/10,2023/10/11,18934,Tour of Wenzhou,2.2,Women,CHN,0,Future Race
+537,2023,11.10,2023/10/11,2023/10/11,183,Giro del Veneto,1.Pro,Men,ITA,0,Future Race
+538,2023,12.10-17.10,2023/10/12,2023/10/17,7591,Gree - Tour of Guangxi,2.UWT,Men,CHN,0,Future Race
+539,2023,12.10-14.10,2023/10/12,2023/10/14,9060,Tour of Chongming Island,2.WWT,Women,CHN,0,Future Race
+540,2023,14.10-16.10,2023/10/14,2023/10/16,18951,Trans-Himalaya Cycling Race,2.2,Men,CHN,0,Future Race
+541,2023,15.10,2023/10/15,2023/10/15,154,Chrono des Nations,1.1,Men,FRA,0,Future Race
+542,2023,15.10,2023/10/15,2023/10/15,9911,Chrono des Nations,1.1,Women,FRA,0,Future Race
+543,2023,15.10,2023/10/15,2023/10/15,463,Chrono des Nations,1.2U,Men,FRA,0,Future Race
+544,2023,15.10,2023/10/15,2023/10/15,95,Japan Cup,1.Pro,Men,JPN,0,Future Race
+545,2023,15.10,2023/10/15,2023/10/15,15208,Veneto Classic,1.Pro,Men,ITA,0,Future Race
+546,2023,17.10,2023/10/17,2023/10/17,9059,Tour of Guangxi,1.WWT,Women,CHN,0,Future Race
